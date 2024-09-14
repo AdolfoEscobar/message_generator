@@ -14,19 +14,3 @@ const mixedMessage = () => {
 }
 
 mixedMessage();
-
-// const chooseWord = (numOfWords) => {
-//     let wordArray = [];
-//     for(let i=0; i<numOfWords; i++){
-//         let pick = Math.floor(Math.random() * abecedary.length);
-//         wordArray.push(abecedary[pick]);
-//     }
-//     wordArray = wordArray.join(' ');
-//     return wordArray;
-// }
-
-// switch(num){
-//      case
-// }
-
-// console.log(chooseWord(4));
